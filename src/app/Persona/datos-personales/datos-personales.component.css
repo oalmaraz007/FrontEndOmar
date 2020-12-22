@@ -1,0 +1,19 @@
+.nombre{
+    font-size: x-large;
+    font-weight: bold;    
+}
+.borde{
+    border: 1px solid black;
+}
+.formato{
+    padding-left: 3%;
+}
+.itabla{
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+p{
+    font-style: oblique;
+}

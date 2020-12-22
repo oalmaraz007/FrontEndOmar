@@ -1,0 +1,17 @@
+.cuadrado{
+    border: 1px solid black;
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+    color: white;
+    text-align: center;
+}
+.itabla{
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.nombre{
+    font-size: x-large;
+    font-weight: bold;    
+}
